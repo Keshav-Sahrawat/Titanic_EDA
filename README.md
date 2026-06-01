@@ -123,7 +123,7 @@ Missing values were successfully handled without affecting analysis quality.
 ```
 Titanic_Preprocessing/
 │
-├── Titanic_EDA_.ipynb
+├── Titanic_EDA.ipynb
 │
 ├── raw_data/
 │   └── titanic_raw_data.csv
