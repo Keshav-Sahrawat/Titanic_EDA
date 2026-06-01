@@ -121,9 +121,9 @@ Missing values were successfully handled without affecting analysis quality.
 ## Project Structure
 
 ```
-Titanic_Dataset/
+Titanic_Preprocessing/
 │
-├── Titanic_EDA_Project.ipynb
+├── Titanic_EDA_.ipynb
 │
 ├── raw_data/
 │   └── titanic_raw_data.csv
